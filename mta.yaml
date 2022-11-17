@@ -25,7 +25,7 @@ modules:
       - name: risk-management-auth
       - name: risk-management-db
 
-  - name: risk-management
+  - name: risk-management3
     type: approuter.nodejs
     path: app/ # from cds.env.folders. Consider also cds.env.build.target -> gen/app
     parameters:
