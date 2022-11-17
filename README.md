@@ -23,7 +23,7 @@ If you want to start or continue from a specific unit or exercise, get the name 
 git checkout <branch>
 ```
 
-## Known Issues
+## Known Issues1
 
 You can find the known issues [here](https://github.com/SAP-samples/extension-suite-learning-journey/issues).
 
